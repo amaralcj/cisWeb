@@ -1,4 +1,12 @@
-img {
+#EFT {
     max-width: 50%;
+    height: auto;
+}
+#Bullterrier {
+    max-width: 50%;
+    height: auto;
+}
+#CDF {
+    width: 50%;
     height: auto;
 }
