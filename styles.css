@@ -10,3 +10,11 @@
     width: 30%;
     height: auto;
 }
+body {
+    background-color: rgb(68, 159, 107);
+    color: gainsboro;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+    color: gainsboro;
+}
